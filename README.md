@@ -1,4 +1,4 @@
-👋 Hi, I’m @sandhyasnr1007
+👋 Hi, I’m Sandhya Sunar.
 
 - 👀 I’m interested in backend development and data analytics  
 - 🌱 I’m currently learning full stack development with a focus on React and Node.js  
